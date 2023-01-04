@@ -48,7 +48,6 @@ public class FMLPlugin implements IFMLLoadingPlugin
 		return (null);
 	}
 
-
 	/**
 	 * @param map list of string and object
 	 */
